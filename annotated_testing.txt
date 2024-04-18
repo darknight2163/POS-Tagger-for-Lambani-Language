@@ -1,0 +1,100 @@
+ನಾನಾ_noun ಥರಾ_preposition ಬಣ್ಣ_noun ಛ_verb
+ಸಿನೆಮಾ_noun ಘಣ_adjective ನಾಳಿ_noun ಟೈಪ್_noun ಛ_verb
+ಯುರೋಪಿಯನ್_noun ನವವೋ_adjective ನಿಯಮ_noun ಅನ್_conjunction ನಿಭಂದನೆ_noun ಕಿದಿಚ_verb
+ದೋಇ_adjective ಜಾಗಾವನು_noun ಮಾಯಿ_preposition ಘಣ_adjective ಅಂತರ_noun ಛ_verb
+ಏನ್_pronoun ದೇಖೊ_verb
+ಓ_pronoun ಮಾಟಿರ್_noun ನಾಮ್_noun ಕಾ೦ಯೀ_noun ಛ_verb
+ತಂಡೇ_noun ಮಾಯಿ_preposition ಏಕಜ_adjective ಸ್ಥಾನ_noun ರೆಮ್ಲಿಚ್_verb
+ಉ_pronoun ಮಾಟಿ_noun ಛೋರೀನ್_noun ಅಪಹರಣ_verb ಕಿದೋಚ_verb
+ಹನು_preposition ವಿಚಾರ್_verb ಕರೆರೋ_verb ಆಚೊ_verb ಕಾವ_verb
+ಅಪಣ_pronoun ದಸೆಕ್_adjective ಉದಾಹರಣೆ_noun ದೆಖಾ_verb
+ಮನ್_pronoun ಅಜಿ_preposition ಕಾ೦ಯೀ_noun ಚಾಯೆನಿ_verb
+ಲೋಕುರ್_noun ವಿಶ್ವಾಸ್_noun ಗಳಸಾಯೇಮಾಯಿ_verb ಸೋತಗೆಚಾ_verb
+ಓ_pronoun ಆಚೆ_adjective ಸಾರು_preposition ಭಾರತ್_noun ಛೋಡನ್_verb ದರಗೆಚ್_verb
+ಕೊಲೆನ್_noun ಕಾ೦ಯೀ_noun ಕಾರಣ್_noun ಛ_verb ಕರನ್_preposition ಅಜಿ_preposition ಮಾಲಮ್_verb ಹುಯಿಕೊಂತಿ_verb
+ಯಾರ್ಲಿ_noun ಮಾಯಿ_preposition ಪ್ರತಿಭಟನಾ_noun ಕಾರೆವನುನ್_noun ಮರಣದಂಡನೆ_noun ದಚ_verb
+ಈ_pronoun ಕಾ೦ಯೀ_noun ನರಕಾ_noun ಛ_verb
+ಆತ್ಮರಕ್ಷಣೆ_noun ಕು_noun ಕರಣು_verb ಕರನ್_verb ತಮ್_pronoun ಶಿಕಣು_verb
+ಬಾಲ್ಯ_noun ಶಿಕ್ಷಣ_noun ಪ್ರತಿನಿಧಿ_noun ಕರೆರ್_verb ಘಣ_adjective ರಿತಿರ್_noun ಕಾರ್ಯಕ್ರಮ_noun ಛ_verb
+ಈ_pronoun ಮನ್_pronoun ಘಣ_adjective ಮುಖ್ಯ_noun ವೇತ್ತಿ_verb
+ಟ್ರೇನ್_noun ಆರಿಕೊಂತಿ_verb
+ಅಧಿಕಾರಿಇಓ_noun ಲೋಕುರ್_noun ಮನವಿನ್_noun ಸ್ಪಂದನೆ_verb ದೆರೆಕೊಂತಿ_verb
+ಉ_pronoun ವನೂರ್_pronoun ಸಿನೆಮಾ_noun ಛ_verb
+ಮ_pronoun ಕಾ೦ಯೀ_noun ಕಿ_verb ಕೊಂತಿ_verb ಸರ್_noun
+ಉ_pronoun ಏಕ್_adjective ಮಾನ್ದೊ_adjective ಕವಿ_noun ಛ_verb
+ವಿಷಯೆರ್_noun ಬಗ್ಗೆ_conjunction ಘಣ_adjective ನಾಳಿ_noun ನಾಳಿ_noun ಅಭಿಪ್ರಾಯ_noun ಛ_verb
+ಉ_pronoun ಆಚೊರೆದ_verb ಮಾನ್ದೊರೆದ_verb ವನೂರ್_pronoun ದೋಸ್ತೇ_noun ವನು_preposition ಜೋಡಿ_preposition ಹುಬೋಚ_verb
+ರೋಡ್_noun ವನು_pronoun ಪರ್_preposition ಫೋಟೋ_noun ಕಾಡೇರೋ_verb ನಿಷೇಧ_verb ಕರ್ಮಲೇಚ_verb
+ತಮಾರ್_pronoun ತಂಡ_noun ಕಾಳೋ_adjective ಅನ್_conjunction ಧೊಳೋ_adjective ಬಣ್ಣಾ_noun ಮಾಯಿ_preposition ರೇಣು_verb
+ಪಾಣಿ_noun ಪಡ_verb ಜನಾ_preposition ಕಿಚ_verb ನಳಾಮಾಯಿ_noun ವೆರಾವಚ_verb
+ಯೆಹೋವನ್_noun ವತ್ತ_adverb ಓರ್_pronoun ಲೊಕುನ್_noun ರಕ್ಷಣೆ_verb ಕಿದೋಚ_verb
+ವನೂರ್_pronoun ಜೋಡಿ_preposition ವ್ಯವಹಾರ್_verb ಕರೆರೋ_verb ಘಣ_adjective ಕಷ್ಟಾ_verb ಛ_verb
+ದೋಇ_adjective ನ_verb ಘಣ_adjective ದಾಡೇತಿ_noun ಪ್ರೇಮ_verb ಸಂಭಂದ_noun ವೇತ್ತಿ_verb
+ಅನ್_conjunction ತಮ್_pronoun ಓನ್_pronoun ಪ್ರಶ್ನೆ_verb ಕರೆನ್_verb ಸಾಧ್ಯ_verb ಛೆನೀ_verb
+ಈ_pronoun ಕಾನೂನ್_noun ಅನ್ಯಾಯ_noun ವೇಮಲಿಚ_verb
+ಚೋರಿ_noun ಕರೆವಾಳ್_noun ಹೆಲ್ಮೆಟ್_noun ಘಾಲ್ಮಲೇತೇ_verb
+ತಮಾರ್_pronoun ಸುರಕ್ಶತೆನ್_noun ಹಮ್_pronoun ಖಚಿತ_noun ಪಡಸಾಮಾಚಾ_verb
+ಛೋರಾ_noun ಕಾ೦ಯೀತೊಯೀ_noun ತಪ್ಪ್_verb ಕರಚಕರನ್_verb ಹಮ್_pronoun ಚಮಕಾಚಾ_verb
+ಈ_pronoun ಪೂರ್ತಿ_adjective ತಪ್ಪ್_verb ಗ್ರಹಿಕೆ_verb ಛ_verb
+ಉ_pronoun ಹನು_preposition ಕಾವ_verb
+ಸೆ_noun ಲೋಕ್_noun ಏನ್_pronoun ಅರ್ಥಾ_verb ಕರಲೇಣು_verb
+ಓರ್_pronoun ಲಾಂಬೊ_adjective ಅನ್_conjunction ನಾಣಕ್ಯಾ_adjective ಛ_verb ಕತೋ_preposition ಮ_pronoun ನಂಬುನಿ_verb
+ಪ್ರೈವೇಟ್_noun ದಾವಾಖಾನಿ_noun ಮಾಯಿ_preposition ಚಿಕಿತ್ಸೆ_verb ಲೆರೇಚ_verb
+ಉ_pronoun ಕುಣಸ್_noun ರಿತಿರ್_noun ಪ್ರಶ್ನೆ_noun ಛ_verb
+ಘಣ_adjective ಮಾಣಸ್_noun ನಿರಾಶೆ_verb ವೇಮಲೆಚ_verb
+ಉ_pronoun ಶಿಕ್ಮಲಿ_verb ಜೆರುಪ್ಪರ್_preposition ಓನ್_pronoun ನೊಕರಿ_noun ದಿನೇಚ_verb
+ಲಾರ್ತಿ_adjective ಛೋರಿ_noun ಪೊಲೀಸ್_noun ವಿರುದ್ಧ_noun ಕಂಪ್ಲೈಂಟ್_verb ದಿನಿಚ_verb
+ಹಮ್_pronoun ವನುನ್_pronoun ದಸೆಕ್_adjective ಉಪಯೋಗ್_verb ವ_verb ಜಕೋಣಿ_preposition ಸಲಹೆ_verb ದಿನೇಚಾ_verb
+ರಣವೀರ್_noun ಸಿಂಗ್_noun ಅಬ್ಬೆ_adverb ಬಾಯ್_noun ಸಿನೆಮಾಮಾಯಿ_noun ಬ್ಯುಸಿ_noun ವೇಮಲೋಚ_verb
+ಭಾರತ್_noun ಶಕ್ತಿಶಾಲಿ_adjective ರಾಷ್ಟ್ರ_noun ಛ_verb
+ಪಣ_conjunction ಅಜಿ_preposition ಮರೆಕೊಂತಿ_verb
+ವನುನ್_pronoun ದುಸರ್_noun ಕಾ೦ಯೀ_noun ಛೆನೀ_verb
+ತಾಜಾ_adjective ಹಣ್ಣ_noun ಅನ್_conjunction ಕಾಯಿಪಲ್ಲೆ_noun ಖಾವೊ_verb
+ಕಡಿಕ್_noun ಓಜ್_pronoun ನಿರ್ಧಾರ್_verb ಲಿದೆಚ_verb
+ಮದಲೇರ್_adjective ದೋಇ_adjective ಪ್ರಯತ್ನ_verb ವಿಫ್ಹಲ್_verb ವೆಗೆಚ್_verb
+ತಮ್_pronoun ಅಧ್ಯಕ್ಷವೆಗೆ_noun ಕತೋ_preposition ಕಾ೦ಯೀ_noun ಕರೋಚೊ_verb
+ಶ್ರೀಲಂಕಾರ್_noun ಟೆಸ್ಟ್_noun ವೇಳಾಪಟ್ಟಿನ_noun ಇಂಗ್ಲೆಂಡ್_noun ಖಚಿತ_noun ಕಿದಿಚ_verb
+ಪ್ರವೇಶ_noun ಲೇಣು_verb ಕತೋ_preposition ಕಾ೦ಯೀ_noun ಕರಣು_verb
+ಖಂಡಿತ_noun ಸೆ_noun ಅದೃಷ್ಟ_noun ಕಿದೆಕೊಂತಿ_verb
+ಬಹಾರ್_noun ಜಾವಮತ್_verb
+ಪ್ರಕರಣೆಮಾಯಿ_noun ಎಫ್ಯೈಆರ್_noun ದಾಖಲ್_verb ವೇಮಲಿಚ್_verb
+ಪಣ_conjunction ಘಟನೆ_noun ಕತ್ತ_noun ಚಾಲಿಚ_verb ಕರನ್_preposition ಸ್ಪಷ್ಟ_verb ಹುಯಿಕೊಂತಿ_verb
+ಮ_pronoun ಮರ್ತಾಣಿ_verb ಹೊಟೊ_verb ಆಯೀಚು_verb ಅನ್_conjunction ಮಾರ್_pronoun ವೃತ್ತಿ_noun ಜೀವನ್_noun ಕಡಿ_noun ಪರೀಕ್ಷೆ_noun ಮಾಯಿ_preposition ಛ_verb
+ಈ_pronoun ಕಡಿ_noun ಛ_verb ಕರನ್_preposition ಮ_pronoun ಸಂಜೂನೀ_verb
+ಮ_pronoun ನಾಣಕಿ_adjective ಛೋರಿನ್_noun ಭೇಟಿ_verb ಹುಯಿಚೂ_verb
+ಉ_pronoun ಓನ್_pronoun ದಿಟೊಜ_verb ಕೋನಿ_verb
+ಏನ್_pronoun ದಂಡಿ_verb ಛೆನಿ_verb
+ಸರ್ಕಾರ್_noun ಓನ್_pronoun ಪರಿಗಣನೆ_verb ಕರ್ರಿಚ_verb
+ಮನ್_pronoun ಕ್ಷಮಾ_verb ಕರೋ_verb ಯಾಡಿ_noun
+ಓ_pronoun ವಡೀತಿ_noun ವಾಳ್_noun ಮಾರೀಚ_verb
+ಓ_pronoun ಕನ್ನಾಯಿಭಿ_noun ಕಂಪ್ಯೂಟರ್_noun ಗೇಮ್_noun ರಮ್ಚ_verb
+ಓ_pronoun ಮನ್_pronoun ಮಾಲಮ್_verb ಛ_verb
+ಏನ್_pronoun ಸಾಲಿ_noun ಮಾಯಿ_preposition ಶಿಕಾಣು_verb
+ಫೋಟೋ_noun ವೇಟ್_verb ಜಕೋಣಿ_preposition ಅನುಮತಿದೇನಿ_verb
+ಉ_pronoun ಅಜಿ_preposition ಕಾ೦ಯೀ_noun ಕಾ೦ಯೀ_noun ಕರಚ_verb
+ಚುನಾವಣಾ_noun ಆಯೋಗೇನ_noun ದೂರ್_noun ದಾಖಲ್_verb ವೇಮ್ಲಿತಿ_verb
+ಹಾವ_noun ಮ್_pronoun ಓನ್_pronoun ಆತಿತಿ_verb
+ರಾತನ್_noun ದಿಯೆ_noun ಕಾಮ್_verb ಕರ್ರಿಚು_verb
+ಆರೋಗ್ಯ_noun ಶರೀರ_noun ಚಾಯೆ_verb ಕತೋ_preposition ಬರಿ_preposition ಪಾಣಿ_noun ಪಿಯೋ_verb
+ಈ_pronoun ರಾಜಕೀಯ_noun ಪಕ್ಷೆರ್_noun ಶಕ್ತಿ_noun ಪ್ರದರ್ಶನ_verb ವೇಮಲಿಚ್_verb
+ಸಂತ್ರಾ_noun ಕತ್ರಾನ್_noun ಛ_verb
+ಓಮಾಯಿ_pronoun ಕಾ೦ಯೀ_noun ಸಂಶಯ_verb ಛೆನಿ_verb
+ಮನ್_pronoun ಉ_pronoun ಮದಲೇ_adjective ಕು_noun ಛ_verb ಕರನ್_verb ಮಾಲಮ್_verb ಹೂಯೋ_verb ಕೋನಿ_verb
+ಆಪರೇಷನ್_noun ಕರೆನ್_verb ಡಾಕ್ಟರೇನ್_noun ಮದತ್_verb ಕರೋ_verb
+ದಾಡ್ಡಿ_adverb ಪುಸ್ತಕ್_noun ಓದೋ_verb
+ಮ್_pronoun ಓನ್_pronoun ಕಾ೦ಯೀ_noun ಹೊಟೊ_verb ಕುನಿ_verb
+ಪೊಲೀಸ್_noun ತನಿಖೆ_noun ಚಾಲು_verb ಕರನ್_verb ಪ್ರಕರಣ_noun ದಾಖಲ್_verb ಕಿದೆಚ_verb
+ಅರ್ಥಾಮಾಯಿ_noun ಕಾ೦ಯೀ_noun ವೆತ್ಯಾಸ್_verb ಛ_verb ಕರನ್_verb ದೇಕೋ_verb
+ಆರ್ಥಿಕ್_noun ಪ್ರಗತಿ_noun ಮಾಯಿ_preposition ಭಾರತ್_noun ಲಾರ್_verb ಪಡರಿಚ_verb
+ಆಫ್ರಿಕನ್_noun ಡೆವಲಪ್ಮೆಂಟ್_noun ಬ್ಯಾಂಕ್_noun ಆಫ್ರಿಕಾ_noun ಮಾಯಿ_preposition ಛ_verb
+ಮುದ್ರಣ_noun ಕಾರ್ಯಾಚರಣೆರ್_noun ಸ್ಥಿತಿ_noun ಕಾಯಿ_noun ಛ_verb
+ಬೆಳೆ_noun ವನೂರ್_preposition ರೇಟ್_noun ಜಾಸ್ತಿ_adjective ಛ_verb
+ಅಪಘಾತೇಮಾಯಿ_noun ಪಂದ್ರ_adjective ಮಾಣಸ_noun ಮರಗೆಚ_verb
+ಜಿಲ್ಲಾ_noun ಕೇಂದ್ರ_noun ಜೊವಾಯಿ_noun ಮಾಯಿ_preposition ಛ_verb
+ಈ_pronoun ದೃಷ್ಟಿಕೋನ_noun ತಪ್ಪ್_verb ಛ_verb
+ಪ್ರಧಾನಮಂತ್ರಿ_noun ಆಚೊ_adjective ಸಾಲಿ_noun ಲೇಮಲೋಚ_verb
+ತಮ್_pronoun ದೂದ್_noun ಪಿಯೊಚೊ_verb ಕಾ೦ಯೀ_noun
+ಉ_pronoun ಕಸೆನ್_noun ಹನು_preposition ಕಿದೋಚ_noun ಕರನ್_verb ಮ್_pronoun ತಮೆನ್_pronoun ಕುಚು_verb
+ನವರಾತ್ರಿರ್_noun ಛೋನೆ_adjective ದಾಡೇರ್_noun ಮಹತ್ವ_noun ಕಾ೦ಯೀ_noun ಛ_verb
+ಹಮ್_pronoun ಕೊಲ್ಲಿ_noun ಪರ್_preposition ಮಿಟೋ_noun ಘಂಟೆ_noun ಅವಾಜ್_noun ಸಾಮಳೆಚಾ_verb
+ತಮ್_pronoun ಏ_pronoun ಪುಸ್ತಕೇವನುಮಾಯಿ_noun ಅಜಿ_preposition ಕಾ೦ಯೀ_noun ತೊಯೀ_noun ಓದೆಚೊ_verb ಕಾ೦ಯೀ_noun
